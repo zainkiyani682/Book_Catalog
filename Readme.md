@@ -122,7 +122,7 @@ def validate_published_year(cls, v):
 
 ```
 .
-├── main.py             # FastAPI application
+├── crud.py             # FastAPI application
 ├── models.py           # SQLAlchemy models
 ├── db.py               # Database setup
 ├── test_main.py        # Unit tests (pytest)
