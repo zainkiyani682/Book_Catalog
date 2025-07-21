@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+.cache/
+
+# SQLite database files
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+
+# Pylint
+.pylint.d/
+
+# pyright
+pyrightconfig.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pipenv
+Pipfile.lock
+
+# IDEs
+.idea/
+*.swp
+
+# Uvicorn reload artifacts
+reload.db
+
+# Test artifacts
+test_output/
